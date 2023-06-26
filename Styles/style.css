@@ -122,4 +122,25 @@ body{
     .apresentacao__conteudo{
         width: auto;
     }
+    .apresentacao__imagem{
+        height: auto;
+    }
+    .apresentacao__links__link{
+        width: 70%;
+    }
+    .Cabecalho{
+        padding: 8%;
+    }
+    .Cabecalho__Menu{
+        gap: 1.5rem
+    }
+    .Cabecalho__Menu__link{
+        font-size: 1rem;
+    }
+    .apresentacao__conteudo__titulo {
+        font-size: 1.25rem;
+    }
+    .apresentacao__conteudo__texto{
+        margin: 0 15px;
+    }
 }
